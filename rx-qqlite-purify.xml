@@ -1,0 +1,114 @@
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.mobileqq.statistics.ReportReceiver" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="cooperation.plugin.PluginCrashReceiver" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="cooperation.qqfav.QfavPluginProxyReceiver" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.mobileqq.webprocess.WebProcessReceiver" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.mobileqq.mini.app.InternalAppBrandTaskPreloadReceiver" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.mobileqq.mini.app.AppBrandTaskPreloadReceiver" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.mobileqq.mini.app.AppBrandTaskPreloadReceiver1" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.mobileqq.mini.app.AppBrandTaskPreloadReceiver2" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.mobileqq.mini.app.AppBrandTaskPreloadReceiver3" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.mobileqq.mini.app.AppBrandTaskPreloadReceiver3" sender="any">
+</prescription>
+
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.mobileqq.mini.app.AppBrandTaskPreloadReceiver4" sender="any">
+</prescription>
+
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.mobileqq.mini.app.AppBrandTaskPreloadReceiver5" sender="any">
+</prescription>
+
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.mobileqq.filemanager.core.UniformDownloadNfnReceiver" sender="any">
+</prescription>
+
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.open.downloadnew.common.DownloadReceiver" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.open.downloadnew.common.DownloadReceiverWebProcess" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.open.business.base.appreport.AppReportReceiver" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.qav.app.QavAwakeReceiver" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.mobileqq.pluginsdk.ipc.PluginRemoteService$Sub1" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.mobileqq.pluginsdk.ipc.PluginRemoteService$Sub2" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.mobileqq.contactsync.syncadapter.SyncService" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="cooperation.qzone.QzonePictureViewerProxyService" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.tmassistantsdk.downloadservice.TMAssistantDownloadSDKService" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="cooperation.qwallet.plugin.QWalletPluginProxyService" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.biz.troop.TroopMemberApiService" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="receiver" package="com.tencent.qqlite" class="com.tencent.qav.ipc.QavService" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="activity" package="com.tencent.qqlite" class="com.tencent.mobileqq.activity.UpgradeActivity" sender="any">
+</prescription>
+
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v3"
+  type="activity" package="com.tencent.qqlite" class="com.tencent.mobileqq.activity.UpgradeDetailActivity" sender="any">
+</prescription>
+
+
+
